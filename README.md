@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Jigyasu Joshi!
 
 ## 🚀 About Me
-My journey into the world of technology began early—at the age of **6**!  
+My journey into the world of tech began at a very early age!  
 Fueled by an endless curiosity for gadgets and innovation, I've evolved into a passionate developer driven by a love for building **scalable solutions** through **mobile & web development**, and crafting **intuitive UI/UX designs**.
 
 > _"If you think I'm doing nothing, remember—something hard is cooking!"_
@@ -83,8 +83,8 @@ But I'm learning to embrace it — because even in silence, something powerful i
 
 ## 📈 GitHub Stats
 
-![Jigyasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Jigyasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshijigyasu7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshijigyasu7&layout=compact&theme=radical)
 
 ---
 
