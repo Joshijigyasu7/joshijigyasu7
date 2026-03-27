@@ -62,7 +62,7 @@ Also diving into the intersection of **AI + IoT** and **Web3**.
 ## 📫 How to Reach Me
 
 - 📧 Email: joshijigyasu7@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/jigyasuxtreme)   
+- 🔗 LinkedIn: [linkedin.com/in/jigyasuxtreme](https://linkedin.com/in/jigyasuxtreme)   
 
 ---
 
